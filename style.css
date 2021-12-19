@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    background-color: chartreuse;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.container2 {
+    justify-content: left;
+    background-color: yellow;
+    color: blue;
+}
+
+.element2 {
+    color: brown;
+}
+
+.element3 {
+    background-color: crimson;
+}
+
+.element4 {
+    justify-content: space-evenly, background-color: darkgrey;
+    color: black;
+}
+
+span {
+    background-color: #fff;
+}
