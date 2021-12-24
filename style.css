@@ -24,6 +24,7 @@ body {
     justify-content: flex-start;
     align-items: center;
     flex: 1;
+    background-color: green;
 }
 
 .logo {
@@ -35,6 +36,14 @@ body {
     color: #fff;
     margin-left: 20px;
     font-size: 28px;
+}
+
+.media {
+    display: flex;
+    flex:1;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: hotpink;
 }
 
 
